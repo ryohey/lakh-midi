@@ -1,0 +1,23 @@
+{
+  "name": "lakh-midi",
+  "version": "1.0.0",
+  "description": "Copy of [Lakh MIDI Dataset](https://colinraffel.com/projects/lmd/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryohey/lakh-midi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryohey/lakh-midi/issues"
+  },
+  "homepage": "https://github.com/ryohey/lakh-midi#readme",
+  "dependencies": {
+    "filenames-to-json": "^1.0.0"
+  }
+}
